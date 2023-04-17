@@ -3,4 +3,3 @@ this is line 2
 this is line 3
 added by developer
 added by tester
-tester added new line
